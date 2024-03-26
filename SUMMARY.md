@@ -10,10 +10,10 @@
 * [Connecting with GitHub](quick-start/connecting-with-github.md)
 * [Open Source License](quick-start/open-source-license.md)
 
-## 🛠 Configuration
+## 🛠️ Configuration
 
 * [Config file](configuration/config-file.md)
 
 ***
 
-* [❓ Frequently asked questions](frequently-asked-questions.md)
+* [❓ FAQ (Frequently asked questions)](faq-frequently-asked-questions.md)
